@@ -4,7 +4,7 @@ export default[
         desc: 'An AI tool that generate blog title depends on your infomation',
         category: 'Blog',
         icon: 'https://cdn-icons-png.flaticon.com/128/8292/8292471.png',
-        aiPrompt: 'Give me 5 blog topic idea in bullet wise only based on give niche, information & outline topic with around 2000 words',
+        aiPrompt: 'Give me 5 blog topic idea in bullet wise only based on give niche, information & outline topic for medium',
         slug: 'generate-blog-title',
         form:[
             {
