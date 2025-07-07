@@ -1,6 +1,6 @@
 ![logo](https://github.com/user-attachments/assets/643b9453-b129-4111-882c-7d8e75d78ee2)
 
-<p align="center"><a href="#project-description">Project Description</a> - <a href="# 🧰 Getting Started">## 🧰 Getting Started</a>
+<p align="center"><a href="#project-description">Project Description</a> - <a href="# 🧰 Getting Started">🧰 Getting Started</a>
 
 ![Screenshot 2025-07-07 180128](https://github.com/user-attachments/assets/2db9d118-1d94-47e8-8543-f2cde2c2100d)
 
